@@ -1,0 +1,29 @@
+{
+    "CarControllerAgent": {
+        "checkpoints": [
+            {
+                "steps": 274735,
+                "file_path": "results\\Car3\\CarControllerAgent\\CarControllerAgent-274735.onnx",
+                "reward": 9.687885721524557,
+                "creation_time": 1669759858.2717104,
+                "auxillary_file_paths": [
+                    "results\\Car3\\CarControllerAgent\\CarControllerAgent-274735.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 274735,
+            "file_path": "results\\Car3\\CarControllerAgent.onnx",
+            "reward": 9.687885721524557,
+            "creation_time": 1669759858.2717104,
+            "auxillary_file_paths": [
+                "results\\Car3\\CarControllerAgent\\CarControllerAgent-274735.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

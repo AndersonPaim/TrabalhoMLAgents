@@ -1,0 +1,65 @@
+{
+    "CarControllerAgent": {
+        "checkpoints": [
+            {
+                "steps": 29999957,
+                "file_path": "results\\Car2\\CarControllerAgent\\CarControllerAgent-29999957.onnx",
+                "reward": 31.842372921761125,
+                "creation_time": 1669397538.2019205,
+                "auxillary_file_paths": [
+                    "results\\Car2\\CarControllerAgent\\CarControllerAgent-29999957.pt"
+                ]
+            },
+            {
+                "steps": 30499959,
+                "file_path": "results\\Car2\\CarControllerAgent\\CarControllerAgent-30499959.onnx",
+                "reward": 31.819997906684875,
+                "creation_time": 1669398158.8009212,
+                "auxillary_file_paths": [
+                    "results\\Car2\\CarControllerAgent\\CarControllerAgent-30499959.pt"
+                ]
+            },
+            {
+                "steps": 30999985,
+                "file_path": "results\\Car2\\CarControllerAgent\\CarControllerAgent-30999985.onnx",
+                "reward": 31.850612917771706,
+                "creation_time": 1669398776.5844223,
+                "auxillary_file_paths": [
+                    "results\\Car2\\CarControllerAgent\\CarControllerAgent-30999985.pt"
+                ]
+            },
+            {
+                "steps": 31499952,
+                "file_path": "results\\Car2\\CarControllerAgent\\CarControllerAgent-31499952.onnx",
+                "reward": 31.852331439654034,
+                "creation_time": 1669399406.5509205,
+                "auxillary_file_paths": [
+                    "results\\Car2\\CarControllerAgent\\CarControllerAgent-31499952.pt"
+                ]
+            },
+            {
+                "steps": 31654710,
+                "file_path": "results\\Car2\\CarControllerAgent\\CarControllerAgent-31654710.onnx",
+                "reward": 31.85821983880467,
+                "creation_time": 1669399610.8834207,
+                "auxillary_file_paths": [
+                    "results\\Car2\\CarControllerAgent\\CarControllerAgent-31654710.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 31654710,
+            "file_path": "results\\Car2\\CarControllerAgent.onnx",
+            "reward": 31.85821983880467,
+            "creation_time": 1669399610.8834207,
+            "auxillary_file_paths": [
+                "results\\Car2\\CarControllerAgent\\CarControllerAgent-31654710.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
