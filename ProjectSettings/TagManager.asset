@@ -4,25 +4,24 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Walls
-  - Checkpoints
+  - Checkpoint
   - Car
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Walls
+  - Checkpoint
   - Water
   - UI
-  - Checkpoints
   - Car
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - Ground
+  - Environment
+  - Track
+  - CrashObject
+  - Kart
+  - TrainingCheckpoints
   - 
   - 
   - 
